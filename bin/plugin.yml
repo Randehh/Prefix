@@ -1,0 +1,7 @@
+name: Prefix
+main: randy.prefix.prefix
+version: 1.0
+commands:
+  prefix:
+    description: Reloads all prefixes
+    usage: /<command> reload
